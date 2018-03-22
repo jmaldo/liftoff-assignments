@@ -35,7 +35,7 @@
 - Rachel LaNave
 - Anri Liy
 - Miguel Luevano
-- [Maldonado, Jeremy (@jmaldo)] (https://github.com/jmaldo/liftoff-assignments)
+- [Maldonado, Jeremy (@jmaldo)](https://github.com/jmaldo/liftoff-assignments)
 - Andrew McGhie
 - [Mumaw, Derek (@dmumaw72)](https://github.com/dmumaw72/liftoff-assignments)
 - Matthew Powers
