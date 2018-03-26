@@ -7,11 +7,18 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+This project is to create a promotion code storage database for event pre sales. This would be used to create historical records for future research and anaylsis. My company has not done a good job of keeping these historical records and during on sales struggle to find these passwords when current passwords don't work. Too much time is lost trying to find them.
 ### Features
-Include Features here
+The given features will include:
+*Log in
+*Account creation
+*Upload for files
+*Download for files
+
 ### Technologies
-Include Technologies here
+For this project I'll be using the following:
+*C#
+*Javascript
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+I'm going to have to learn Javascript and some new functions of C#. I may add to the technoligies for this project.
